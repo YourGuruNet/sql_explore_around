@@ -10,7 +10,8 @@ AS
       [FirstName],
       [LastName],
       [UserName],
-      [Password]
+      [Password],
+      [Email]
 	FROM
 		[dbo].[Clients];
 
